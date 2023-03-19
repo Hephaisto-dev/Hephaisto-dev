@@ -26,9 +26,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
-### ⌚ Coding time in my IDE's for last 7 days
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hephaisto)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">

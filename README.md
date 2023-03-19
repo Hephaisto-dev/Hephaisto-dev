@@ -26,6 +26,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
+### ⌚ Coding time in my IDE's for last 7 days
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hephaisto)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Héphaïsto#8899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Héphaïsto#8899" height="30" width="40" /></a>

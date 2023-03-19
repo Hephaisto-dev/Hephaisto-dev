@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hephaisto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hephaisto-dev" /> </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hephaisto-dev&no-bg=true&theme=algolia&no-frame=true" alt="hephaisto-dev" />
+<img src="https://github-profile-trophy.vercel.app/?username=hephaisto-dev&no-bg=true&theme=algolia&no-frame=true&column=4" alt="hephaisto-dev" />
 
 - 🔭 I’m currently working on **JikayMC**
 

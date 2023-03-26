@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Minecraft Plugins**
 
-- 📫 How to reach me **hephaistopl@gmail.com**
+- 📫 How to reach me : **hephaistopl@gmail.com**
 
 - ⚡ Fun fact **I like pineapple pizza**
 

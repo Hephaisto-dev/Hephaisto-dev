@@ -22,15 +22,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 102.6 kB Used in GitHub's Storage 
+> 📦 102.7 kB Used in GitHub's Storage 
  > 
-> 🏆 996 Contributions in the Year 2023
+> 🏆 997 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -41,9 +41,9 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1229 commits        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
-🌆 Daytime                2160 commits        █████████████░░░░░░░░░░░░   50.10 % 
-🌃 Evening                790 commits         █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+🌞 Morning                1229 commits        ███████░░░░░░░░░░░░░░░░░░   28.50 % 
+🌆 Daytime                2160 commits        █████████████░░░░░░░░░░░░   50.09 % 
+🌃 Evening                791 commits         █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
 🌙 Night                  132 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
@@ -52,7 +52,7 @@
 Monday                   717 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
 Tuesday                  529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 Wednesday                1205 commits        ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-Thursday                 770 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Thursday                 771 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
 Friday                   576 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
 Saturday                 272 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 Sunday                   242 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
@@ -102,7 +102,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 27/04/2023 17:19:05 UTC
+ Last Updated on 27/04/2023 18:34:57 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

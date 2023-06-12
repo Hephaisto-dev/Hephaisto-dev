@@ -5,7 +5,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=hephaisto-dev&no-bg=true&theme=algolia&no-frame=true&row=1" alt="hephaisto-dev" />
 
-- 🔭 I’m currently working on **JikayMC**
+- 🔭 I’m currently working on **Mine of War**
 
 - 🌱 I’m currently learning **React Native**
 

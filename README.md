@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-242%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-245%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -65,18 +65,18 @@ Sunday                   271 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 8 mins        ████████████████████░░░░░   78.16 % 
-Java                     35 mins             █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Kotlin                   2 hrs 52 mins       █████████████████████░░░░   82.60 % 
+Java                     36 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 
 🔥 Editors: 
-IntelliJ                 2 hrs 44 mins       █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-minecraft-kt             2 hrs 12 mins       ████████████████████░░░░░   80.46 % 
-mine-of-war              32 mins             █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+minecraft-kt             2 hrs 56 mins       █████████████████████░░░░   84.41 % 
+mine-of-war              32 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 
 💻 Operating System: 
-Windows                  2 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +96,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2023 18:37:48 UTC
+ Last Updated on 01/07/2023 18:36:14 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

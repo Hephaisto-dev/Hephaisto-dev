@@ -65,18 +65,16 @@ Sunday                   285 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   13 mins             ████████████████████████░   97.67 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-minecraft-kt             13 mins             ████████████████████████░   97.67 % 
-mine-of-war              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  13 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +94,7 @@ OCaml                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2023 18:34:52 UTC
+ Last Updated on 02/08/2023 18:34:57 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

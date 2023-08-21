@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,19 @@ Sunday                   283 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Kotlin                   48 mins             ████████████████░░░░░░░░░   63.98 % 
+Java                     26 mins             █████████░░░░░░░░░░░░░░░░   35.09 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minecraft-kt             1 hr 8 mins         ███████████████████████░░   90.70 % 
+mine-of-war              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -94,7 +97,7 @@ OCaml                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2023 18:34:37 UTC
+ Last Updated on 21/08/2023 18:35:20 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

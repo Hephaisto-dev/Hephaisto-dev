@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-278%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-275%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,19 +65,20 @@ Sunday                   283 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   48 mins             ████████████████░░░░░░░░░   63.98 % 
-Java                     26 mins             █████████░░░░░░░░░░░░░░░░   35.09 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Kotlin                   3 hrs               █████████████████████░░░░   85.33 % 
+Java                     30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJ                 1 hr 15 mins        █████████████████████████   100.00 % 
+IntelliJ                 3 hrs 31 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-minecraft-kt             1 hr 8 mins         ███████████████████████░░   90.70 % 
-mine-of-war              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+minecraft-kt             3 hrs 20 mins       ████████████████████████░   94.84 % 
+mine-of-war              10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -97,7 +98,7 @@ OCaml                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2023 18:35:20 UTC
+ Last Updated on 22/08/2023 18:34:45 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Héphaïsto</h1>
-<h4 align="center">A passionate java developper from France</h4>
+<h4 align="center">A passionate developper from France</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hephaisto-dev&label=Profile%20views&color=0e75b6&style=flat" alt="hephaisto-dev" /> </p>
 

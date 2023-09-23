@@ -22,9 +22,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-333%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 **🐱 My GitHub Data** 
 
@@ -65,20 +65,21 @@ Sunday                   283 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   3 hrs 51 mins       █████████████████████████   99.92 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Kotlin                   6 hrs 46 mins       ████████████████████████░   97.49 % 
+Java                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Assembly                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-IntelliJ                 3 hrs 51 mins       █████████████████████████   100.00 % 
+IntelliJ                 6 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-minecraft-kt             3 hrs 51 mins       █████████████████████████   100.00 % 
+minecraft-kt             6 hrs 50 mins       █████████████████████████   98.34 % 
+mine-of-war              6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  3 hrs 51 mins       █████████████████████████   100.00 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +99,7 @@ OCaml                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2023 18:35:24 UTC
+ Last Updated on 23/09/2023 18:35:08 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

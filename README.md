@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-349%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -65,16 +65,20 @@ Sunday                   293 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        4 hrs 35 mins       ███████████████████████░░   90.98 % 
+Bash                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+Ezhil                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      5 hrs 3 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+piscine-repo             4 hrs 33 mins       ███████████████████████░░   90.30 % 
+Unknown Project          29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -94,7 +98,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2023 18:35:49 UTC
+ Last Updated on 11/10/2023 18:37:16 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

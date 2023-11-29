@@ -30,6 +30,8 @@
 
 > 📦 115.6 kB Used in GitHub's Storage 
  > 
+> 🏆 1,870 Contributions in the Year 2023
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -63,16 +65,20 @@ Sunday                   319 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 hrs 31 mins       ██████████████████████░░░   87.78 % 
+Kotlin                   19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      2 hrs 33 mins       ██████████████████████░░░   88.63 % 
+IntelliJ                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+mydbs                    2 hrs 33 mins       ██████████████████████░░░   88.63 % 
+minecraft-kt             19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -92,7 +98,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 28/11/2023 18:37:04 UTC
+ Last Updated on 29/11/2023 18:35:58 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

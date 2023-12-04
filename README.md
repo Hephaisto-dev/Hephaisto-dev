@@ -22,13 +22,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2013%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 115.6 kB Used in GitHub's Storage 
+> 📦 115.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,874 Contributions in the Year 2023
  > 
@@ -99,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2023 18:35:03 UTC
+ Last Updated on 04/12/2023 18:37:26 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

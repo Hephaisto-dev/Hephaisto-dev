@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-497%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -101,7 +101,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 16/12/2023 18:34:53 UTC
+ Last Updated on 17/12/2023 18:35:40 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

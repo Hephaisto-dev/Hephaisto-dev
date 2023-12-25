@@ -65,22 +65,16 @@ Sunday                   319 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   1 hr 57 mins        ████████████████████████░   95.31 % 
-Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
-Java Properties          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Shell Script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ                 2 hrs 1 min         █████████████████████████   98.28 % 
-Vim                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-minecraft-kt             2 hrs 1 min         █████████████████████████   98.28 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 3 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -100,7 +94,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 24/12/2023 18:34:59 UTC
+ Last Updated on 25/12/2023 18:34:55 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

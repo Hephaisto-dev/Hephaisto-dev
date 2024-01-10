@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-500%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,11 +83,11 @@ Linux                    21 mins             ███████████�
 **I Mostly Code in Java** 
 
 ```text
-Java                     70 repos            ███████████████████░░░░░░   74.47 % 
-TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-Kotlin                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Java                     70 repos            ███████████████████░░░░░░   75.27 % 
+TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Kotlin                   4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 
@@ -97,7 +97,7 @@ C                        2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2024 18:35:05 UTC
+ Last Updated on 10/01/2024 18:37:03 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

@@ -30,8 +30,6 @@
 
 > 📦 116.9 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -101,7 +99,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2024 18:34:34 UTC
+ Last Updated on 04/02/2024 18:35:37 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

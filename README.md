@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 129.0 kB Used in GitHub's Storage 
+> 📦 129.1 kB Used in GitHub's Storage 
  > 
 > 🏆 131 Contributions in the Year 2024
  > 
@@ -99,7 +99,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/03/2024 18:35:13 UTC
+ Last Updated on 02/03/2024 18:34:11 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

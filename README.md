@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2053%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 129.1 kB Used in GitHub's Storage 
+> 📦 129.2 kB Used in GitHub's Storage 
  > 
 > 🏆 131 Contributions in the Year 2024
  > 
@@ -65,21 +65,16 @@ Sunday                   315 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Kotlin                   1 hr 15 mins        █████████████████████████   99.13 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-minecraft-kt             1 hr 15 mins        █████████████████████████   99.51 % 
-jws                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -99,7 +94,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2024 18:34:11 UTC
+ Last Updated on 03/03/2024 18:34:23 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

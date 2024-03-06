@@ -22,15 +22,15 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-584%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 129.2 kB Used in GitHub's Storage 
+> 📦 129.3 kB Used in GitHub's Storage 
  > 
-> 🏆 133 Contributions in the Year 2024
+> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -65,18 +65,18 @@ Sunday                   315 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-C                        48 mins             ███████████████████████░░   92.52 % 
-Text                     3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+C                        1 hr 37 mins        ████████████████████████░   96.16 % 
+Text                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Vim                      52 mins             █████████████████████████   100.00 % 
+Vim                      1 hr 41 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Unknown Project          42 mins             ████████████████████░░░░░   80.67 % 
-sus-b                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+Unknown Project          1 hr 31 mins        ███████████████████████░░   90.07 % 
+sus-b                    10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 
 💻 Operating System: 
-Linux                    52 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +96,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 05/03/2024 18:34:54 UTC
+ Last Updated on 06/03/2024 18:34:22 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

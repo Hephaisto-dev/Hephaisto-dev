@@ -30,6 +30,8 @@
 
 > 📦 130.5 kB Used in GitHub's Storage 
  > 
+> 🏆 135 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
@@ -63,20 +65,16 @@ Sunday                   315 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     16 mins             ████████████████░░░░░░░░░   62.58 % 
-Kotlin                   9 mins              █████████░░░░░░░░░░░░░░░░   37.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Intellijidea             25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-phasmophobia-game        10 mins             ██████████░░░░░░░░░░░░░░░   40.31 % 
-minecraft-kt             9 mins              █████████░░░░░░░░░░░░░░░░   37.42 % 
-prj2-2023-prj2-2023-17   4 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-idev53906-portfolio      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -96,7 +94,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 08/06/2024 18:36:45 UTC
+ Last Updated on 09/06/2024 18:36:03 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

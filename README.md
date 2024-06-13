@@ -28,9 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 130.5 kB Used in GitHub's Storage 
- > 
-> 🏆 135 Contributions in the Year 2024
+> 📦 130.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -94,7 +92,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 18:38:46 UTC
+ Last Updated on 13/06/2024 18:39:48 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

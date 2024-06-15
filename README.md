@@ -22,37 +22,35 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2042%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 130.6 kB Used in GitHub's Storage 
+> 📦 130.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 20 Public Repositories 
  > 
-> 🔑 46 Private Repositories 
+> 🔑 47 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                730 commits         █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-🌆 Daytime                1765 commits        ███████████░░░░░░░░░░░░░░   45.11 % 
-🌃 Evening                1278 commits        ████████░░░░░░░░░░░░░░░░░   32.66 % 
+🌞 Morning                730 commits         █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+🌆 Daytime                1767 commits        ███████████░░░░░░░░░░░░░░   45.13 % 
+🌃 Evening                1278 commits        ████████░░░░░░░░░░░░░░░░░   32.64 % 
 🌙 Night                  140 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   807 commits         █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
-Tuesday                  866 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
-Wednesday                770 commits         █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
+Monday                   807 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+Tuesday                  866 commits         ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
+Wednesday                770 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 Thursday                 510 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 Friday                   326 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Saturday                 319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Saturday                 321 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
 Sunday                   315 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
 ```
 
@@ -63,16 +61,16 @@ Sunday                   315 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Makefile                 1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Vim                      1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sus-b                    1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -92,7 +90,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 13/06/2024 18:39:48 UTC
+ Last Updated on 15/06/2024 18:37:49 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

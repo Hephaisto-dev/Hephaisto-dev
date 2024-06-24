@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 130.8 kB Used in GitHub's Storage 
+> 📦 131.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -80,8 +80,8 @@ No Activity Tracked This Week
 ```text
 Java                     63 repos            █████████████████░░░░░░░░   67.02 % 
 C                        8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 TypeScript               5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 ```
 
@@ -92,7 +92,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2024 18:36:16 UTC
+ Last Updated on 24/06/2024 18:39:09 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

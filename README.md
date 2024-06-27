@@ -22,13 +22,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2044%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 132.1 kB Used in GitHub's Storage 
+> 📦 132.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -63,16 +63,21 @@ Sunday                   315 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Jupyter                  45 mins             ██████████████████████░░░   89.96 % 
+textmate                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ERO                      50 mins             █████████████████████████   98.90 % 
+phasmophobia-game        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -92,7 +97,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 26/06/2024 18:40:14 UTC
+ Last Updated on 27/06/2024 18:37:59 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

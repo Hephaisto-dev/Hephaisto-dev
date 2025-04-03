@@ -24,11 +24,11 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-859%20hrs%206%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 187.2 kB Used in GitHub's Storage 
+> 📦 187.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -63,22 +63,16 @@ Sunday                   312 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-PHP                      1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   37.27 % 
-Markdown                 55 mins             █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
-Clojure                  47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
-Other                    32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-JavaScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs               ████████████████░░░░░░░░░   64.44 % 
-IntelliJ IDEA            1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-techno-web               3 hrs               ████████████████░░░░░░░░░   64.44 % 
-CTF_2025                 1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   35.56 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +92,7 @@ Clojure                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 01/04/2025 18:47:38 UTC
+ Last Updated on 03/04/2025 18:46:44 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

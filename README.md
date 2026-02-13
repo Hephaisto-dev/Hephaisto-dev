@@ -22,13 +22,13 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C753%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C754%20hrs%2053%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 639.7 kB Used in GitHub's Storage 
+> 📦 639.8 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2026
  > 
@@ -65,16 +65,24 @@ Sunday                   364 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     51 mins             ███████████████████░░░░░░   75.19 % 
+YAML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Groovy                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+GitIgnore file           2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WynboxEvents-master      43 mins             ████████████████░░░░░░░░░   63.96 % 
+WynboxStats              19 mins             ███████░░░░░░░░░░░░░░░░░░   28.87 % 
+Atlas                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+nexus-scripting-examples 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+WynboxAteliers           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -94,7 +102,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 06/02/2026 19:14:44 UTC
+ Last Updated on 13/02/2026 19:16:04 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

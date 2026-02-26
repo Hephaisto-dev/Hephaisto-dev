@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 640.9 kB Used in GitHub's Storage 
+> 📦 641.0 kB Used in GitHub's Storage 
  > 
 > 🏆 4 Contributions in the Year 2026
  > 
@@ -65,19 +65,16 @@ Sunday                   364 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-XML                      2 mins              █████████████████░░░░░░░░   68.45 % 
-Java                     0 secs              ████████░░░░░░░░░░░░░░░░░   31.13 % 
-Groovy                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nexus-scripting-examples 2 mins              █████████████████░░░░░░░░   68.87 % 
-WynboxEvents-master      0 secs              ████████░░░░░░░░░░░░░░░░░   31.13 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -97,7 +94,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 19/02/2026 19:17:23 UTC
+ Last Updated on 26/02/2026 19:20:10 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

@@ -22,69 +22,30 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hephaisto-dev&theme=transparent" alt="hephaisto-dev" /></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C756%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 641.1 kB Used in GitHub's Storage 
+> 📦 641.3 kB Used in GitHub's Storage 
  > 
-> 🏆 4 Contributions in the Year 2026
+> 🏆 9 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 33 Public Repositories 
  > 
-> 🔑 75 Private Repositories 
+> 🔑 74 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                843 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-🌆 Daytime                2298 commits        ████████████░░░░░░░░░░░░░   46.72 % 
-🌃 Evening                1592 commits        ████████░░░░░░░░░░░░░░░░░   32.36 % 
-🌙 Night                  186 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   977 commits         █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
-Tuesday                  1026 commits        █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-Wednesday                973 commits         █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-Thursday                 693 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Friday                   431 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Saturday                 453 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Sunday                   366 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Java** 
 
 ```text
-Java                     83 repos            ████████████████░░░░░░░░░   62.41 % 
-Kotlin                   13 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Python                   8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-TypeScript               7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Shell                    2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Java                     83 repos            ███████████████░░░░░░░░░░   61.48 % 
+TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Python                   7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Shell                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+HTML                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 
 
@@ -94,7 +55,7 @@ Shell                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2026 19:19:01 UTC
+ Last Updated on 25/03/2026 19:19:11 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 

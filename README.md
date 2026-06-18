@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 643.0 kB Used in GitHub's Storage 
+> 📦 643.1 kB Used in GitHub's Storage 
  > 
 > 🏆 51 Contributions in the Year 2026
  > 
@@ -65,20 +65,16 @@ Sunday                   378 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   1 hr 17 mins        ████████████░░░░░░░░░░░░░   47.95 % 
-Makefile                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Docker                   29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-C                        11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Vim                      2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CTF_2026                 2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 41 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -98,7 +94,7 @@ Verilog                  1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Hephaisto-dev/Hephaisto-dev/main/assets/bar_graph.png)
 
 
- Last Updated on 11/06/2026 20:44:21 UTC
+ Last Updated on 18/06/2026 20:46:25 UTC
 <!--END_SECTION:waka-->
 **📊 3d View**
 
